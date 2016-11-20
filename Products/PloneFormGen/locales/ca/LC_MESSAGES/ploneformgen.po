@@ -4,7 +4,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.7b5\n"
-"POT-Creation-Date: 2016-11-18 00:31+0000\n"
+"POT-Creation-Date: 2016-11-20 13:05+0000\n"
 "PO-Revision-Date: 2011-10-20 12:25+0100\n"
 "Last-Translator: Ariel von Barnekow <ariel.von.barnekow@upcnet.es>\n"
 "Language-Team: Plone i18n <plone-i18n@lists.sourceforge.net>\n"
@@ -941,6 +941,7 @@ msgstr ""
 "etiquetes i camps d'arxius). Si selecciona això, les opcions de sota de la\n"
 "caixa d'elecció seran ignorades."
 
+#. Default: "Displays the Reset button"
 #: ./content/form.py:71
 msgid "help_showcancel_text"
 msgstr "Mostra el botó Reinicia"
@@ -965,6 +966,7 @@ msgstr ""
 "NOTAR, SI US PLAU: errors en l'avaluació d'aquesta expressió causaran\n"
 "un error al mostrar el formulari."
 
+#. Default: "The name that will appear on the button that will be used to send."
 #: ./content/form.py:61
 msgid "help_submitlabel_text"
 msgstr "Nom que sortirà al botó que s'utilitzarà per enviar"

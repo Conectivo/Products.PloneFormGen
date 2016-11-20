@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PloneFormGen 0.2\n"
-"POT-Creation-Date: 2016-11-18 00:31+0000\n"
+"POT-Creation-Date: 2016-11-20 13:05+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI +ZONE\n"
 "Last-Translator: Steve McMahon <steve@dcn.org>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -774,6 +774,7 @@ msgstr ""
 msgid "help_showallfields_text"
 msgstr ""
 
+#. Default: "Displays the Reset button"
 #: ./content/form.py:71
 msgid "help_showcancel_text"
 msgstr ""
@@ -793,6 +794,7 @@ msgstr ""
 msgid "help_subject_override_text"
 msgstr ""
 
+#. Default: "The name that will appear on the button that will be used to send."
 #: ./content/form.py:61
 msgid "help_submitlabel_text"
 msgstr ""

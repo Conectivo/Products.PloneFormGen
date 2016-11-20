@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PloneFormGen\n"
-"POT-Creation-Date: 2016-11-18 00:31+0000\n"
+"POT-Creation-Date: 2016-11-20 13:05+0000\n"
 "PO-Revision-Date: 2010-08-06 10:24+0200\n"
 "Last-Translator: Maurits van Rees <m.van.rees@zestsoftware.nl>\n"
 "Language-Team: \n"
@@ -875,6 +875,7 @@ msgstr "Een TALES-expressie die geëvalueerd zal worden om het \"Van\" veld te o
 msgid "help_showallfields_text"
 msgstr "Selecteer dit om de gegevens van alle velden te tonen (behalve de label- en bestandsvelden). Als u dit selecteert worden de keuzes in de selectiebox hieronder genegeerd."
 
+#. Default: "Displays the Reset button"
 #: ./content/form.py:71
 msgid "help_showcancel_text"
 msgstr ""
@@ -895,6 +896,7 @@ msgstr ""
 msgid "help_subject_override_text"
 msgstr "Een TALES-expressie die geëvalueerd zal worden om elke andere waarde van de onderwerp header te overschrijven. Laat leeg indien dit niet nodig is. De expressie moet een 'string' opleveren. MERK OP: fouten in de evaluatie van deze expressie zullen leiden tot fouten in het tonen van het formulier.\""
 
+#. Default: "The name that will appear on the button that will be used to send."
 #: ./content/form.py:61
 msgid "help_submitlabel_text"
 msgstr ""

@@ -3,7 +3,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
-"POT-Creation-Date: 2016-11-18 00:31+0000\n"
+"POT-Creation-Date: 2016-11-20 13:05+0000\n"
 "PO-Revision-Date: 2011-09-21 12:05-0300\n"
 "Last-Translator: Andre Nogueira <andre@simplesconsultoria.com.br>\n"
 "Language-Team: Simples Consultoria <contato@simplesconsultoria.com.br>\n"
@@ -844,6 +844,7 @@ msgstr "Uma expressão TALES que será avaliada para sobrescrever qualquer valor
 msgid "help_showallfields_text"
 msgstr "Marque esta opção para exibir todos os campos (com exceção dos campos do tipo rótulo e arquivo). Se você marcar esta opção, as opções de seleção abaixo serão ignoradas."
 
+#. Default: "Displays the Reset button"
 #: ./content/form.py:71
 msgid "help_showcancel_text"
 msgstr ""
@@ -868,6 +869,7 @@ msgstr ""
 msgid "help_subject_override_text"
 msgstr "Uma expressão TALES que será avaliada para sobrescrever qualquer valor que possa ser digitado no campo de assunto do cabeçalho. Deixe em branco caso não seja necessário. Sua expressão deverá avaliar como uma string. Por favor, observe: erros na execução da expressão irão gerar erro na exibição do formulário."
 
+#. Default: "The name that will appear on the button that will be used to send."
 #: ./content/form.py:61
 msgid "help_submitlabel_text"
 msgstr ""

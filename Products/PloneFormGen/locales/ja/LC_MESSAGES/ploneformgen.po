@@ -4,7 +4,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: FormGen\n"
-"POT-Creation-Date: 2016-11-18 00:31+0000\n"
+"POT-Creation-Date: 2016-11-20 13:05+0000\n"
 "PO-Revision-Date: \n"
 "Last-Translator: Shigeo Honda <shigeo.honda@gmail.com>\n"
 "Language-Team: Naotaka Jay Hotta <naotaka@we.care.jp>\n"
@@ -949,6 +949,7 @@ msgstr "From欄を置き換えるために評価されるTALES式です。必要
 msgid "help_showallfields_text"
 msgstr "これをチェックするとラベルとファイルフィールドを除くすべての入力フィールドの内容を表示します。以下からチェックされたものは除外されます"
 
+#. Default: "Displays the Reset button"
 #: ./content/form.py:71
 msgid "help_showcancel_text"
 msgstr ""
@@ -975,6 +976,7 @@ msgstr ""
 msgid "help_subject_override_text"
 msgstr "メールのタイトル欄に入力された値で置き換えるために評価されるTALES式です。必要のないときは空欄します。文字列として評価されます。【註記】この式のエラーはフォーム表示のエラーとして表示されます"
 
+#. Default: "The name that will appear on the button that will be used to send."
 #: ./content/form.py:61
 msgid "help_submitlabel_text"
 msgstr ""

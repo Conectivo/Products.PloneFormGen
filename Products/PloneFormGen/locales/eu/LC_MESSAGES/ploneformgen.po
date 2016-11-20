@@ -4,7 +4,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Products.PloneFormGen\n"
-"POT-Creation-Date: 2016-11-18 00:31+0000\n"
+"POT-Creation-Date: 2016-11-20 13:05+0000\n"
 "PO-Revision-Date: 2014-02-27 10:33+0100\n"
 "Last-Translator: Mikel Larreategi <mlarreategi@codesyntax.com>\n"
 "Language-Team: eu <eu@li.org>\n"
@@ -836,6 +836,7 @@ msgstr ""
 "erakoak ezik. Aktibatzen baduzu, hurrengo eremuko aukeraketak\n"
 "ez du eraginik izango."
 
+#. Default: "Displays the Reset button"
 #: ./content/form.py:71
 msgid "help_showcancel_text"
 msgstr " "
@@ -855,6 +856,7 @@ msgstr " "
 msgid "help_subject_override_text"
 msgstr "E-posta mezuaren Gaia gainidazteko exekutatuko den TALES espresioa. Utzi hutsik ez baduzu erabili behar.  Espresioak string bat itzuli beharko luke. OHARRA: espresioa ebaluatzerakoan erroreren bat gertatzen bada, formularioa erakustean errorea gertatuko da."
 
+#. Default: "The name that will appear on the button that will be used to send."
 #: ./content/form.py:61
 msgid "help_submitlabel_text"
 msgstr " "

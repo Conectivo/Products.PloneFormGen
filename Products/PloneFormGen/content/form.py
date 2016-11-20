@@ -58,7 +58,7 @@ FormFolderSchema = ATFolderSchema.copy() + Schema((
         default="Submit",
         widget=StringWidget(
             label=_(u'label_submitlabel_text', default=u"Submit Button Label"),
-            description = _(u'help_submitlabel_text', default=u""),
+            description = _(u'help_submitlabel_text', default=u"The name that will appear on the button that will be used to send."),
             ),
         ),
     BooleanField('useCancelButton',
@@ -68,7 +68,7 @@ FormFolderSchema = ATFolderSchema.copy() + Schema((
         languageIndependent=1,
         widget=BooleanWidget(label=_(u'label_showcancel_text',
                                      default=u'Show Reset Button'),
-            description=_(u'help_showcancel_text', default=u""),
+            description=_(u'help_showcancel_text', default=u"Displays the Reset button"),
             ),
         ),
     StringField('resetLabel',

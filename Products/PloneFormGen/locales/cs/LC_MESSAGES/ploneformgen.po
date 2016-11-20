@@ -3,7 +3,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PloneFormGen\n"
-"POT-Creation-Date: 2016-11-18 00:31+0000\n"
+"POT-Creation-Date: 2016-11-20 13:05+0000\n"
 "PO-Revision-Date: 2010-09-28 10:05+0100\n"
 "Last-Translator: Radim Novotny <novotny.radim@gmail.com>\n"
 "Language-Team: <info@dms4u.cz>\n"
@@ -869,6 +869,7 @@ msgstr ""
 msgid "help_showallfields_text"
 msgstr "Zaškrtněte toto políčko pokud chcete zobrazit vstup pro všechna pole (kromě label a souborů). Pokud toto pole zaškrtnete, pak se nepoužije výběr z polí níže."
 
+#. Default: "Displays the Reset button"
 #: ./content/form.py:71
 msgid "help_showcancel_text"
 msgstr ""
@@ -889,6 +890,7 @@ msgstr ""
 msgid "help_subject_override_text"
 msgstr ""
 
+#. Default: "The name that will appear on the button that will be used to send."
 #: ./content/form.py:61
 msgid "help_submitlabel_text"
 msgstr ""

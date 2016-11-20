@@ -4,7 +4,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2016-11-18 00:31+0000\n"
+"POT-Creation-Date: 2016-11-20 13:05+0000\n"
 "PO-Revision-Date: 2012-04-04 16:38+0100\n"
 "Last-Translator: Giacomo Spettoli <giacomo.spettoli@gmail.com>\n"
 "Language-Team: Italian Translation Team <plone-i18n@lists.sourceforge.net>\n"
@@ -875,6 +875,7 @@ msgstr "Un'espressione TALES che verrà valutata per sovrascrivere il mittente d
 msgid "help_showallfields_text"
 msgstr "Seleziona per mostrare tutti i campi (eccetto etichette e campi file). Se selezionato, le impostazioni del box si selezione qui sotto saranno ignorate."
 
+#. Default: "Displays the Reset button"
 #: ./content/form.py:71
 msgid "help_showcancel_text"
 msgstr ""
@@ -902,6 +903,7 @@ msgstr ""
 msgid "help_subject_override_text"
 msgstr "Un'espression TALES che verrà valutata per sovrascrivere qualsiasi valore inserito per l'oggetto dell'email. Lasciare vuoto se non serve. L'espressione dovrebbe essere valutata come una stringa. NOTA: eventuali errori nella valutazione dell'espressione impediranno la corretta visualizzazione del form."
 
+#. Default: "The name that will appear on the button that will be used to send."
 #: ./content/form.py:61
 msgid "help_submitlabel_text"
 msgstr ""

@@ -3,7 +3,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PloneFormGen\n"
-"POT-Creation-Date: 2016-11-18 00:31+0000\n"
+"POT-Creation-Date: 2016-11-20 13:05+0000\n"
 "PO-Revision-Date: 2011-06-09 11:10+0200\n"
 "Last-Translator: Harald Friessnegger <harald@webmeisterei.com>\n"
 "Language-Team: German <kde-i18n-de@kde.org>\n"
@@ -907,6 +907,7 @@ msgstr "Ein TALES-Ausdruck, der ausgewertet wird, um den FROM-Header zu übersch
 msgid "help_showallfields_text"
 msgstr "Anwählen um die Eingaben für alle Felder anzuzeigen (ausser Bezeichnungs- und Dateifelder). Wenn Sie es anwählen wird die Auswahl der unten anzuwählenden Kästen ignoriert."
 
+#. Default: "Displays the Reset button"
 #: ./content/form.py:71
 msgid "help_showcancel_text"
 msgstr ""
@@ -932,6 +933,7 @@ msgstr ""
 msgid "help_subject_override_text"
 msgstr "Ein TALES-Ausdruck, der ausgewertet wird, um den Betreff zu überschreiben. Der Ausdruck sollte eine Zeichenkette wiedergeben. Leer lassen, wenn Sie dies nicht benötigen. ACHTUNG: Fehler in der Auswertung des Ausdrucks bewirken einen Fehler bei der Anzeige des Formulars."
 
+#. Default: "The name that will appear on the button that will be used to send."
 #: ./content/form.py:61
 msgid "help_submitlabel_text"
 msgstr ""

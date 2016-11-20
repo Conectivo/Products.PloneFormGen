@@ -3,7 +3,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PloneFormGen\n"
-"POT-Creation-Date: 2016-11-18 00:31+0000\n"
+"POT-Creation-Date: 2016-11-20 13:05+0000\n"
 "PO-Revision-Date: 2011-07-07 19:20+0100\n"
 "Last-Translator: JeanMichel FRANCOIS <toutpt@gmail.com>\n"
 "Language-Team: French Translation Team <plone-i18n@lists.sourceforge.net>\n"
@@ -853,6 +853,7 @@ msgstr ""
 msgid "help_showallfields_text"
 msgstr "Cochez pour afficher les saisies de tous les champs (excepté les champs label et fichier). Si vous cochez, les choix des cases à cocher ci-dessous seront ignorés."
 
+#. Default: "Displays the Reset button"
 #: ./content/form.py:71
 msgid "help_showcancel_text"
 msgstr "Cocher cette case aura pour effet d'ajouter un bouton permettant d'annuler le formulaire."
@@ -873,6 +874,7 @@ msgstr ""
 msgid "help_subject_override_text"
 msgstr ""
 
+#. Default: "The name that will appear on the button that will be used to send."
 #: ./content/form.py:61
 msgid "help_submitlabel_text"
 msgstr ""
